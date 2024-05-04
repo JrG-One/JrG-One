@@ -14,8 +14,6 @@
  
  🌱 I’m currently learning **ReactJs, Django**
 
-💬 Ask me about **Basics of Developement or Reactjs**
-
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
@@ -44,7 +42,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JrG-One/Readme/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
