@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **InterviewWhiz**
+ 🔭 I’m currently working as **SDE Inetrn** at **21CC Education**
  
- 🌱 I’m currently learning **ReactJs, Django**
+ 🌱 I’m currently learning **ReactJs, Django, Angular, and Next**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
